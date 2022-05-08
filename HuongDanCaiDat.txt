@@ -1,0 +1,21 @@
+Các bước cài đặt
+
+B1: Giải nén tệp vào www (nếu xài wampserver) hoặc htdocs (nếu xài xampp)
+
+B2: Chạy phpmysql và tạo csdl là 'db_grean' sau đó import file db_grean.sql có trong folder đã tải về
+
+B3: Chạy trang web, nếu trang web chưa load các icon thì reload lại trang web 1 lần nữa là được
+
+Các lỗi đã được fix nên chỉ cần chạy chương trình là ok 
+
+Các tài khoản admin 
+- Của Hai:
+	TK: admin1
+	MK: Hai123 
+- Của Khải:
+	TK: admin2
+	MK: Khai123 
+- Của Hiếu:
+	TK: admin3
+	MK: Hieu123 
+Để chạy admin chỉ cần thêm vào đường dẫn chữ 'admin'
